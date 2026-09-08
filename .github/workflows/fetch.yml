@@ -1,7 +1,7 @@
 name: Fetch feeds
 on:
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -37,6 +37,54 @@ jobs:
         with:
           name: security.json
           path: security.json
+          retention-days: 1
+          overwrite: true
+          archive: false
+  tech_en:
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Tokyo'
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ruby/setup-ruby@v1
+      - run: ruby rss_fetch.rb --max-age-days 1 tech_en.feeds.opml > tech_en.json
+      - uses: actions/upload-artifact@v7
+        with:
+          name: tech_en.json
+          path: tech_en.json
+          retention-days: 1
+          overwrite: true
+          archive: false
+  tech_ja_company:
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Tokyo'
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ruby/setup-ruby@v1
+      - run: ruby rss_fetch.rb --max-age-days 1 tech_ja_company.feeds.opml > tech_ja_company.json
+      - uses: actions/upload-artifact@v7
+        with:
+          name: tech_ja_company.json
+          path: tech_ja_company.json
+          retention-days: 1
+          overwrite: true
+          archive: false
+  tech_ja_personal:
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Tokyo'
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ruby/setup-ruby@v1
+      - run: ruby rss_fetch.rb --max-age-days 1 tech_ja_personal.feeds.opml > tech_ja_personal.json
+      - uses: actions/upload-artifact@v7
+        with:
+          name: tech_ja_personal.json
+          path: tech_ja_personal.json
           retention-days: 1
           overwrite: true
           archive: false
