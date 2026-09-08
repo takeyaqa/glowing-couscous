@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='2.0'>
+  <head>
+    <title>Tech (Japanese/Company)</title>
+  </head>
+  <body>
+    <outline type='rss' text='LIFULL Creators Blog' title='LIFULL Creators Blog' xmlUrl='https://www.lifull.blog/feed' htmlUrl='https://www.lifull.blog/'/>
+    <outline type='rss' text='エムスリーテックブログ' title='エムスリーテックブログ' xmlUrl='https://www.m3tech.blog/feed' htmlUrl='https://www.m3tech.blog/'/>
+    <outline type='rss' text='Kyash Product Blog' title='Kyash Product Blog' xmlUrl='https://blog.kyash.co/feed' htmlUrl='https://blog.kyash.co/'/>
+    <outline type='rss' text='クックパッド開発者ブログ' title='クックパッド開発者ブログ' xmlUrl='https://techlife.cookpad.com/feed' htmlUrl='https://techlife.cookpad.com/'/>
+    <outline type='rss' text='Sansan Tech Blog' title='Sansan Tech Blog' xmlUrl='https://buildersbox.corp-sansan.com/feed' htmlUrl='https://buildersbox.corp-sansan.com/'/>
+    <outline type='rss' text='Blog on DeNA Engineering' title='Blog on DeNA Engineering' xmlUrl='https://engineering.dena.com/blog/index.xml' htmlUrl='https://engineering.dena.com/blog/'/>
+    <outline type='rss' text='DeNA Testing Blog' title='DeNA Testing Blog' xmlUrl='https://swet.dena.com/feed' htmlUrl='https://swet.dena.com/'/>
+    <outline type='rss' text='虎の穴ラボ技術ブログ' title='虎の穴ラボ技術ブログ' xmlUrl='https://toranoana-lab.hatenablog.com/feed' htmlUrl='https://toranoana-lab.hatenablog.com/'/>
+    <outline type='rss' text='Hatena Developer Blog' title='Hatena Developer Blog' xmlUrl='https://developer.hatenastaff.com/feed' htmlUrl='https://developer.hatenastaff.com/'/>
+    <outline type='rss' text='KAYAC Engineers&apos; Blog' title='KAYAC Engineers&apos; Blog' xmlUrl='https://techblog.kayac.com/feed' htmlUrl='https://techblog.kayac.com/'/>
+    <outline type='rss' text='メルカリエンジニアリングブログ' title='メルカリエンジニアリングブログ' xmlUrl='https://engineering.mercari.com/blog/feed.xml' htmlUrl='https://engineering.mercari.com/'/>
+    <outline type='rss' text='IVRy（アイブリー）公式' title='IVRy（アイブリー）公式' xmlUrl='https://note.com/ivry/rss' htmlUrl='https://note.com/ivry'/>
+    <outline type='rss' text='Knowledge Work Developers Blog' title='Knowledge Work Developers Blog' xmlUrl='https://note.com/knowledgework/rss' htmlUrl='https://note.com/knowledgework'/>
+    <outline type='rss' text='AIテスト自動化プラットフォーム「MagicPod」公式note' title='AIテスト自動化プラットフォーム「MagicPod」公式note' xmlUrl='https://note.com/magicpod/rss' htmlUrl='https://note.com/magicpod'/>
+    <outline type='rss' text='Sansan公式note' title='Sansan公式note' xmlUrl='https://note.com/sansanjapan/rss' htmlUrl='https://note.com/sansanjapan'/>
+    <outline type='rss' text='Pepabo Tech Portal' title='Pepabo Tech Portal' xmlUrl='https://tech.pepabo.com/feed.xml' htmlUrl='https://tech.pepabo.com/'/>
+    <outline type='rss' text='Tabelog Tech Blog' title='Tabelog Tech Blog' xmlUrl='https://tech-blog.tabelog.com/feed' htmlUrl='https://tech-blog.tabelog.com/'/>
+    <outline type='rss' text='Uzabase for Engineers' title='Uzabase for Engineers' xmlUrl='https://tech.uzabase.com/feed' htmlUrl='https://tech.uzabase.com/'/>
+    <outline type='rss' text='Wantedly Engineer Blog' title='Wantedly Engineer Blog' xmlUrl='https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml' htmlUrl='https://www.wantedly.com/stories/s/wantedly_engineers'/>
+    <outline type='rss' text='ZOZO TECH BLOG' title='ZOZO TECH BLOG' xmlUrl='https://techblog.zozo.com/feed' htmlUrl='https://techblog.zozo.com/'/>
+    <outline type='rss' text='AEON TECH HUBのフィード' title='AEON TECH HUBのフィード' xmlUrl='https://zenn.dev/p/aeonpeople/feed' htmlUrl='https://zenn.dev/p/aeonpeople'/>
+    <outline type='rss' text='Kurashiru Tech Blogのフィード' title='Kurashiru Tech Blogのフィード' xmlUrl='https://zenn.dev/p/dely_jp/feed' htmlUrl='https://zenn.dev/p/dely_jp'/>
+    <outline type='rss' text='Dinii Tech Blogのフィード' title='Dinii Tech Blogのフィード' xmlUrl='https://zenn.dev/p/dinii/feed' htmlUrl='https://zenn.dev/p/dinii'/>
+    <outline type='rss' text='IVRyテックブログのフィード' title='IVRyテックブログのフィード' xmlUrl='https://zenn.dev/p/ivry/feed' htmlUrl='https://zenn.dev/p/ivry'/>
+    <outline type='rss' text='株式会社ナレッジワークのフィード' title='株式会社ナレッジワークのフィード' xmlUrl='https://zenn.dev/p/knowledgework/feed' htmlUrl='https://zenn.dev/p/knowledgework'/>
+    <outline type='rss' text='株式会社ログラス テックブログのフィード' title='株式会社ログラス テックブログのフィード' xmlUrl='https://zenn.dev/p/loglass/feed' htmlUrl='https://zenn.dev/p/loglass'/>
+    <outline type='rss' text='Luup Developers Blogのフィード' title='Luup Developers Blogのフィード' xmlUrl='https://zenn.dev/p/luup_developers/feed' htmlUrl='https://zenn.dev/p/luup_developers'/>
+    <outline type='rss' text='MIXI DEVELOPERS Tech Blogのフィード' title='MIXI DEVELOPERS Tech Blogのフィード' xmlUrl='https://zenn.dev/p/mixi/feed' htmlUrl='https://zenn.dev/p/mixi'/>
+    <outline type='rss' text='Money Forward Developersのフィード' title='Money Forward Developersのフィード' xmlUrl='https://zenn.dev/p/moneyforward/feed' htmlUrl='https://zenn.dev/p/moneyforward'/>
+    <outline type='rss' text='SODA Engineering Blogのフィード' title='SODA Engineering Blogのフィード' xmlUrl='https://zenn.dev/p/team_soda/feed' htmlUrl='https://zenn.dev/p/team_soda'/>
+    <outline type='rss' text='Zenn Tech Blogのフィード' title='Zenn Tech Blogのフィード' xmlUrl='https://zenn.dev/p/team_zenn/feed' htmlUrl='https://zenn.dev/p/team_zenn'/>
+    <outline type='rss' text='Ubie テックブログのフィード' title='Ubie テックブログのフィード' xmlUrl='https://zenn.dev/p/ubie_dev/feed' htmlUrl='https://zenn.dev/p/ubie_dev'/>
+    <outline type='rss' text='BASEプロダクトチームブログ' title='BASEプロダクトチームブログ' xmlUrl='https://devblog.thebase.in/feed' htmlUrl='https://devblog.thebase.in/'/>
+    <outline type='rss' text='トレタ開発者ブログ' title='トレタ開発者ブログ' xmlUrl='https://tech.toreta.in/feed' htmlUrl='https://tech.toreta.in/'/>
+    <outline type='rss' text='STORES Product Blog' title='STORES Product Blog' xmlUrl='https://product.st.inc/feed' htmlUrl='https://product.st.inc/'/>
+    <outline type='rss' text='Visional Engineering Blog' title='Visional Engineering Blog' xmlUrl='https://engineering.visional.inc/blog/index.xml' htmlUrl='https://engineering.visional.inc/blog/'/>
+    <outline type='rss' text='Cybozu Inside Out | サイボウズエンジニアのブログ' title='Cybozu Inside Out | サイボウズエンジニアのブログ' xmlUrl='https://blog.cybozu.io/feed' htmlUrl='https://blog.cybozu.io/'/>
+    <outline type='rss' text='Gunosy Tech Blog' title='Gunosy Tech Blog' xmlUrl='https://tech.gunosy.io/feed' htmlUrl='https://tech.gunosy.io/'/>
+    <outline type='rss' text='Yappli Tech Blog' title='Yappli Tech Blog' xmlUrl='https://tech.yappli.io/feed' htmlUrl='https://tech.yappli.io/'/>
+    <outline type='rss' text='エス・エム・エス エンジニア テックブログ' title='エス・エム・エス エンジニア テックブログ' xmlUrl='https://tech.bm-sms.co.jp/feed' htmlUrl='https://tech.bm-sms.co.jp/'/>
+    <outline type='rss' text='CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ' title='CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ' xmlUrl='https://developers.cyberagent.co.jp/blog/feed/' htmlUrl='https://developers.cyberagent.co.jp/blog/'/>
+    <outline type='rss' text='freee Developers Hub' title='freee Developers Hub' xmlUrl='https://developers.freee.co.jp/feed' htmlUrl='https://developers.freee.co.jp/'/>
+    <outline type='rss' text='LayerX エンジニアブログ' title='LayerX エンジニアブログ' xmlUrl='https://tech.layerx.co.jp/feed' htmlUrl='https://tech.layerx.co.jp/'/>
+    <outline type='rss' text='LegalOn Technologies Engineering Blog' title='LegalOn Technologies Engineering Blog' xmlUrl='https://tech.legalforce.co.jp/feed' htmlUrl='https://tech.legalforce.co.jp/'/>
+    <outline type='rss' text='LINEヤフー Tech Blog (LY Corporation Tech Blog' title='LINEヤフー Tech Blog (LY Corporation Tech Blog' xmlUrl='https://techblog.lycorp.co.jp/ja/feed/index.xml' htmlUrl='https://techblog.lycorp.co.jp/'/>
+    <outline type='rss' text='株式会社タイミー' title='株式会社タイミー' xmlUrl='https://note.timee.co.jp/rss' htmlUrl='https://note.timee.co.jp'/>
+    <outline type='rss' text='Timee' title='Timee' xmlUrl='https://productpr.timee.co.jp/rss' htmlUrl='https://productpr.timee.co.jp'/>
+    <outline type='rss' text='Timee Product Team Blog' title='Timee Product Team Blog' xmlUrl='https://tech.timee.co.jp/feed' htmlUrl='https://tech.timee.co.jp/'/>
+    <outline type='rss' text='クラウドワークス エンジニアブログ' title='クラウドワークス エンジニアブログ' xmlUrl='https://engineer.crowdworks.jp/feed' htmlUrl='https://engineer.crowdworks.jp/'/>
+    <outline type='rss' text='Kurashiru Tech Blog' title='Kurashiru Tech Blog' xmlUrl='https://tech.dely.jp/feed' htmlUrl='https://tech.dely.jp/'/>
+    <outline type='rss' text='GREE Engineering' title='GREE Engineering' xmlUrl='https://labs.gree.jp/blog/feed/' htmlUrl='https://labs.gree.jp/blog'/>
+    <outline type='rss' text='カミナシ エンジニアブログ' title='カミナシ エンジニアブログ' xmlUrl='https://kaminashi-developer.hatenablog.jp/feed' htmlUrl='https://kaminashi-developer.hatenablog.jp/'/>
+    <outline type='rss' text='株式会社ヘンリー エンジニアブログ' title='株式会社ヘンリー エンジニアブログ' xmlUrl='https://dev.henry.jp/feed' htmlUrl='https://dev.henry.jp/'/>
+    <outline type='rss' text='Money Forward Developers Blog' title='Money Forward Developers Blog' xmlUrl='https://moneyforward-dev.jp/feed' htmlUrl='https://moneyforward-dev.jp/'/>
+    <outline type='rss' text='デジタル庁' title='デジタル庁' xmlUrl='https://digital-gov.note.jp/rss' htmlUrl='https://digital-gov.note.jp'/>
+    <outline type='rss' text='SHIFT Group 技術ブログ' title='SHIFT Group 技術ブログ' xmlUrl='https://note.shiftinc.jp/rss' htmlUrl='https://note.shiftinc.jp'/>
+    <outline type='rss' text='SmartHR Tech Blog' title='SmartHR Tech Blog' xmlUrl='https://tech.smarthr.jp/feed' htmlUrl='https://tech.smarthr.jp/'/>
+    <outline type='rss' text='Speee DEVELOPER BLOG' title='Speee DEVELOPER BLOG' xmlUrl='https://tech.speee.jp/feed' htmlUrl='https://tech.speee.jp/'/>
+    <outline type='rss' text='お知らせ｜OpenIDファウンデーション・ジャパン' title='お知らせ｜OpenIDファウンデーション・ジャパン' xmlUrl='https://www.openid.or.jp/news/atom.xml' htmlUrl='https://www.openid.or.jp/news/'/>
+  </body>
+</opml>

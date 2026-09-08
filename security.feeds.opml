@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='2.0'>
+  <head>
+    <title>Security and Vulnerabilities</title>
+  </head>
+  <body>
+    <outline type='rss' text='緊急対策情報・注意喚起（重要なセキュリティ情報）RSS' title='緊急対策情報・注意喚起（重要なセキュリティ情報）RSS' xmlUrl='https://www.ipa.go.jp/security/alert-rss.rdf' htmlUrl='https://www.ipa.go.jp/security/'/>
+    <outline type='rss' text='JVNRSS Feed - Update Entry' title='JVNRSS Feed - Update Entry' xmlUrl='https://jvn.jp/rss/jvn.rdf' htmlUrl='https://jvn.jp/'/>
+  </body>
+</opml>

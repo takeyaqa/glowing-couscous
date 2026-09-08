@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='2.0'>
+  <head>
+    <title>News</title>
+  </head>
+  <body>
+    <outline type='rss' text='The GitHub Blog' title='The GitHub Blog' xmlUrl='https://github.blog/feed/' htmlUrl='https://github.blog/'/>
+    <outline type='rss' text='OpenAI News' title='OpenAI News' xmlUrl='https://openai.com/news/rss.xml' htmlUrl='https://openai.com/news/'/>
+    <outline type='rss' text='Ahead of AI' title='Ahead of AI' xmlUrl='https://magazine.sebastianraschka.com/feed' htmlUrl='https://magazine.sebastianraschka.com/'/>
+    <outline type='rss' text='Sqripts' title='Sqripts' xmlUrl='https://sqripts.com/feed/' htmlUrl='https://sqripts.com'/>
+    <outline type='rss' text='TechCrunch' title='TechCrunch' xmlUrl='https://techcrunch.com/feed/' htmlUrl='https://techcrunch.com/'/>
+    <outline type='rss' text='The Verge' title='The Verge' xmlUrl='https://www.theverge.com/rss/index.xml' htmlUrl='https://www.theverge.com/'/>
+    <outline type='rss' text='gihyo.jp' title='gihyo.jp' xmlUrl='https://gihyo.jp/feed/atom' htmlUrl='https://gihyo.jp'/>
+    <outline type='rss' text='Publickey' title='Publickey' xmlUrl='https://www.publickey1.jp/atom.xml' htmlUrl='https://www.publickey1.jp/'/>
+    <outline type='rss' text='独立行政法人情報処理推進機構（IPA）新着情報RSS' title='独立行政法人情報処理推進機構（IPA）新着情報RSS' xmlUrl='https://www.ipa.go.jp/about/newsonly-rss.rdf' htmlUrl='https://www.ipa.go.jp/'/>
+    <outline type='rss' text='プレスリリースRSS' title='プレスリリースRSS' xmlUrl='https://www.ipa.go.jp/about/press-rss.rdf' htmlUrl='https://www.ipa.go.jp/'/>
+    <outline type='rss' text='Hacker News: Front Page' title='Hacker News: Front Page' xmlUrl='https://hnrss.org/frontpage' htmlUrl='https://news.ycombinator.com/'/>
+  </body>
+</opml>

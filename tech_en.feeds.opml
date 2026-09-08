@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='2.0'>
+  <head>
+    <title>Tech (English)</title>
+  </head>
+  <body>
+    <outline type='rss' text='Michael Stapelbergs Website' title='Michael Stapelbergs Website' xmlUrl='https://michael.stapelberg.ch/feed.xml' htmlUrl='https://michael.stapelberg.ch/'/>
+    <outline type='rss' text='&lt;antirez&gt;' title='&lt;antirez&gt;' xmlUrl='https://antirez.com/rss' htmlUrl='http://antirez.com/'/>
+    <outline type='rss' text='Max Bernstein&apos;s Blog' title='Max Bernstein&apos;s Blog' xmlUrl='https://bernsteinbear.com/feed.xml' htmlUrl='https://bernsteinbear.com/'/>
+    <outline type='rss' text='Computer Things' title='Computer Things' xmlUrl='https://buttondown.com/hillelwayne/rss' htmlUrl='https://buttondown.com/hillelwayne/'/>
+    <outline type='rss' text='Daring Fireball' title='Daring Fireball' xmlUrl='https://daringfireball.net/feeds/articles' htmlUrl='https://daringfireball.net'/>
+    <outline type='rss' text='Geoffrey Litt' title='Geoffrey Litt' xmlUrl='https://www.geoffreylitt.com/feed.xml' htmlUrl='https://geoffreylitt.com/'/>
+    <outline type='rss' text='Jeff Geerling' title='Jeff Geerling' xmlUrl='https://www.jeffgeerling.com/blog.xml' htmlUrl='https://www.jeffgeerling.com/'/>
+    <outline type='rss' text='Krebs on Security' title='Krebs on Security' xmlUrl='https://krebsonsecurity.com/feed/' htmlUrl='https://krebsonsecurity.com/'/>
+    <outline type='rss' text='Martin Alderson' title='Martin Alderson' xmlUrl='https://martinalderson.com/feed.xml' htmlUrl='https://martinalderson.com/'/>
+    <outline type='rss' text='Mitchell Hashimoto' title='Mitchell Hashimoto' xmlUrl='https://mitchellh.com/feed.xml' htmlUrl='https://mitchellh.com'/>
+    <outline type='rss' text='seangoedecke.com RSS feed' title='seangoedecke.com RSS feed' xmlUrl='https://www.seangoedecke.com/rss.xml' htmlUrl='https://seangoedecke.com/'/>
+    <outline type='rss' text='Troy Hunt' title='Troy Hunt' xmlUrl='https://www.troyhunt.com/rss/' htmlUrl='https://www.troyhunt.com/'/>
+    <outline type='rss' text='matklad' title='matklad' xmlUrl='https://matklad.github.io/feed.xml' htmlUrl='https://matklad.github.io'/>
+    <outline type='rss' text='Andrew Nesbitt' title='Andrew Nesbitt' xmlUrl='https://nesbitt.io/feed.xml' htmlUrl='https://nesbitt.io/'/>
+    <outline type='rss' text='Simon Willison&apos;s Weblog' title='Simon Willison&apos;s Weblog' xmlUrl='https://simonwillison.net/atom/everything/' htmlUrl='http://simonwillison.net/'/>
+    <outline type='rss' text='Armin Ronacher&apos;s Thoughts and Writings' title='Armin Ronacher&apos;s Thoughts and Writings' xmlUrl='https://lucumr.pocoo.org/feed.atom' htmlUrl='https://lucumr.pocoo.org/'/>
+  </body>
+</opml>

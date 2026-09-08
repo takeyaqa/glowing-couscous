@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='2.0'>
+  <head>
+    <title>Tech (Japanese/Personal)</title>
+  </head>
+  <body>
+    <outline type='rss' text='千里霧中' title='千里霧中' xmlUrl='https://goyoki.hatenablog.com/feed' htmlUrl='https://goyoki.hatenablog.com/'/>
+    <outline type='rss' text='Konifar&apos;s WIP' title='Konifar&apos;s WIP' xmlUrl='https://konifar.hatenablog.com/feed' htmlUrl='https://konifar.hatenablog.com/'/>
+    <outline type='rss' text='覚書' title='覚書' xmlUrl='https://satoru-takeuchi.hatenablog.com/feed' htmlUrl='https://satoru-takeuchi.hatenablog.com/'/>
+    <outline type='rss' text='くりにっき' title='くりにっき' xmlUrl='https://sue445.hatenablog.com/feed' htmlUrl='https://sue445.hatenablog.com/'/>
+    <outline type='rss' text='t-wadaのブログ' title='t-wadaのブログ' xmlUrl='https://t-wada.hatenablog.jp/feed' htmlUrl='https://t-wada.hatenablog.jp/'/>
+    <outline type='rss' text='Konifar&apos;s ZATSU' title='Konifar&apos;s ZATSU' xmlUrl='https://konifar-zatsu.hatenadiary.jp/feed' htmlUrl='https://konifar-zatsu.hatenadiary.jp/'/>
+    <outline type='rss' text='ブロッコリーのブログ' title='ブロッコリーのブログ' xmlUrl='https://nihonbuson.hatenadiary.jp/feed' htmlUrl='https://nihonbuson.hatenadiary.jp/'/>
+    <outline type='rss' text='piyolog' title='piyolog' xmlUrl='https://piyolog.hatenadiary.jp/feed' htmlUrl='https://piyolog.hatenadiary.jp/'/>
+    <outline type='rss' text='ソフトウェアの品質を学びまくる' title='ソフトウェアの品質を学びまくる' xmlUrl='https://www.kzsuzuki.com/feed' htmlUrl='https://www.kzsuzuki.com/'/>
+    <outline type='rss' text='snsk' title='snsk' xmlUrl='https://note.com/_snsk/rss' htmlUrl='https://note.com/_snsk'/>
+    <outline type='rss' text='Kouichi Akiyama' title='Kouichi Akiyama' xmlUrl='https://note.com/akiyama924/rss' htmlUrl='https://note.com/akiyama924'/>
+    <outline type='rss' text='ar_tama' title='ar_tama' xmlUrl='https://note.com/ar_tama/rss' htmlUrl='https://note.com/ar_tama'/>
+    <outline type='rss' text='dora_e_m' title='dora_e_m' xmlUrl='https://note.com/dora_e_m/rss' htmlUrl='https://note.com/dora_e_m'/>
+    <outline type='rss' text='ぐんちゃ' title='ぐんちゃ' xmlUrl='https://note.com/gun_chari/rss' htmlUrl='https://note.com/gun_chari'/>
+    <outline type='rss' text='May' title='May' xmlUrl='https://note.com/hinatours/rss' htmlUrl='https://note.com/hinatours'/>
+    <outline type='rss' text='honamin' title='honamin' xmlUrl='https://note.com/honamin09/rss' htmlUrl='https://note.com/honamin09'/>
+    <outline type='rss' text='コタツ' title='コタツ' xmlUrl='https://note.com/k_kotatsu1992/rss' htmlUrl='https://note.com/k_kotatsu1992'/>
+    <outline type='rss' text='杞憂' title='杞憂' xmlUrl='https://note.com/kiyou77/rss' htmlUrl='https://note.com/kiyou77'/>
+    <outline type='rss' text='くぼぴー' title='くぼぴー' xmlUrl='https://note.com/kubopi/rss' htmlUrl='https://note.com/kubopi'/>
+    <outline type='rss' text='kyon_mm' title='kyon_mm' xmlUrl='https://note.com/kyon_mm/rss' htmlUrl='https://note.com/kyon_mm'/>
+    <outline type='rss' text='おおひら' title='おおひら' xmlUrl='https://note.com/lg_tester_ohira/rss' htmlUrl='https://note.com/lg_tester_ohira'/>
+    <outline type='rss' text='Sammy (Morita Masami)' title='Sammy (Morita Masami)' xmlUrl='https://note.com/morita_masami/rss' htmlUrl='https://note.com/morita_masami'/>
+    <outline type='rss' text='森崎 修司' title='森崎 修司' xmlUrl='https://note.com/smorisaki/rss' htmlUrl='https://note.com/smorisaki'/>
+    <outline type='rss' text='tarappo' title='tarappo' xmlUrl='https://note.com/tarappo/rss' htmlUrl='https://note.com/tarappo'/>
+    <outline type='rss' text='よこぴー' title='よこぴー' xmlUrl='https://note.com/yoppy5965/rss' htmlUrl='https://note.com/yoppy5965'/>
+    <outline type='rss' text='伊藤由貴 / Yoshiki Ito' title='伊藤由貴 / Yoshiki Ito' xmlUrl='https://note.com/yoshikiito/rss' htmlUrl='https://note.com/yoshikiito'/>
+    <outline type='rss' text='yoya' title='yoya' xmlUrl='https://note.com/yoya_k/rss' htmlUrl='https://note.com/yoya_k'/>
+    <outline type='rss' text='山田裕一朗（CEO at Findy Inc.）' title='山田裕一朗（CEO at Findy Inc.）' xmlUrl='https://note.com/yuichiro826/rss' htmlUrl='https://note.com/yuichiro826'/>
+    <outline type='rss' text='Tsuyoshi Yumoto' title='Tsuyoshi Yumoto' xmlUrl='https://note.com/yumotsuyo/rss' htmlUrl='https://note.com/yumotsuyo'/>
+    <outline type='rss' text='mizchiさんのフィード' title='mizchiさんのフィード' xmlUrl='https://zenn.dev/mizchi/feed' htmlUrl='https://zenn.dev/mizchi'/>
+    <outline type='rss' text='uhyoさんのフィード' title='uhyoさんのフィード' xmlUrl='https://zenn.dev/uhyo/feed' htmlUrl='https://zenn.dev/uhyo'/>
+    <outline type='rss' text='JSer.info' title='JSer.info' xmlUrl='https://jser.info/rss/' htmlUrl='https://jser.info/'/>
+    <outline type='rss' text='blog.jxck.io' title='blog.jxck.io' xmlUrl='https://blog.jxck.io/feeds/atom.xml' htmlUrl='https://blog.jxck.io/'/>
+    <outline type='rss' text='テストウフ' title='テストウフ' xmlUrl='https://yoshikiito.net/index.xml' htmlUrl='https://yoshikiito.net/'/>
+    <outline type='rss' text='@_Nat Zone' title='@_Nat Zone' xmlUrl='https://www.sakimura.org/feed/' htmlUrl='https://www.sakimura.org/'/>
+    <outline type='rss' text='徳丸浩の日記' title='徳丸浩の日記' xmlUrl='https://blog.tokumaru.org/feeds/posts/default' htmlUrl='https://blog.tokumaru.org/'/>
+  </body>
+</opml>
