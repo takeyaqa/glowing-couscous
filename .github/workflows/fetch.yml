@@ -22,3 +22,21 @@ jobs:
           name: news.json
           path: news.json
           retention-days: 1
+          overwrite: true
+          archive: false
+  security:
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Tokyo'
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ruby/setup-ruby@v1
+      - run: ruby rss_fetch.rb --max-age-days 1 security.feeds.opml > security.json
+      - uses: actions/upload-artifact@v7
+        with:
+          name: security.json
+          path: security.json
+          retention-days: 1
+          overwrite: true
+          archive: false
