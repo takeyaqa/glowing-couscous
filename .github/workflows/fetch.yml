@@ -1,7 +1,7 @@
 name: Fetch feeds
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "55 2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,8 +10,6 @@ permissions:
 jobs:
   news:
     runs-on: ubuntu-latest
-    env:
-      TZ: 'Asia/Tokyo'
     steps:
       - uses: actions/checkout@v7
       - uses: ruby/setup-ruby@v1
@@ -25,8 +23,6 @@ jobs:
           archive: false
   security:
     runs-on: ubuntu-latest
-    env:
-      TZ: 'Asia/Tokyo'
     steps:
       - uses: actions/checkout@v7
       - uses: ruby/setup-ruby@v1
@@ -40,8 +36,6 @@ jobs:
           archive: false
   tech_en:
     runs-on: ubuntu-latest
-    env:
-      TZ: 'Asia/Tokyo'
     steps:
       - uses: actions/checkout@v7
       - uses: ruby/setup-ruby@v1
@@ -55,8 +49,6 @@ jobs:
           archive: false
   tech_ja_company:
     runs-on: ubuntu-latest
-    env:
-      TZ: 'Asia/Tokyo'
     steps:
       - uses: actions/checkout@v7
       - uses: ruby/setup-ruby@v1
@@ -70,8 +62,6 @@ jobs:
           archive: false
   tech_ja_personal:
     runs-on: ubuntu-latest
-    env:
-      TZ: 'Asia/Tokyo'
     steps:
       - uses: actions/checkout@v7
       - uses: ruby/setup-ruby@v1
