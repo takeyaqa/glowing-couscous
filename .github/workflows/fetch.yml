@@ -9,7 +9,6 @@ permissions:
 
 jobs:
   news:
-    timeout-minutes: 5
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Tokyo'
@@ -25,7 +24,6 @@ jobs:
           overwrite: true
           archive: false
   security:
-    timeout-minutes: 5
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Tokyo'
@@ -41,7 +39,6 @@ jobs:
           overwrite: true
           archive: false
   tech_en:
-    timeout-minutes: 5
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Tokyo'
@@ -57,7 +54,6 @@ jobs:
           overwrite: true
           archive: false
   tech_ja_company:
-    timeout-minutes: 5
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Tokyo'
@@ -73,7 +69,6 @@ jobs:
           overwrite: true
           archive: false
   tech_ja_personal:
-    timeout-minutes: 5
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Tokyo'
