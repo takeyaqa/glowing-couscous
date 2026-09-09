@@ -301,7 +301,6 @@ if __FILE__ == $0
   result = rss_fetch.collect_feeds(**runtime_options)
   article_count = result.feeds.sum { |feed| feed[:items].length }
   warn "Complete: articles=#{article_count}"
-  warn result.errors if result.errors?
   puts JSON.pretty_generate(result.to_h)
   exit result.errors? ? 1 : 0
 end
