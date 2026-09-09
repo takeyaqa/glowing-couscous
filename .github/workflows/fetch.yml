@@ -1,7 +1,7 @@
 name: Fetch feeds
 on:
   schedule:
-    - cron: "55 2 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
