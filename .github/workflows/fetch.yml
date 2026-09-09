@@ -4,72 +4,30 @@ on:
     - cron: "55 2 * * *"
   workflow_dispatch:
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  news:
+  fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
       - uses: ruby/setup-ruby@v1
-      - run: ruby rss_fetch.rb --max-age-days 1 news.feeds.opml > news.json
-      - uses: actions/upload-artifact@v7
-        with:
-          name: news.json
-          path: news.json
-          retention-days: 1
-          overwrite: true
-          archive: false
-  security:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-      - uses: ruby/setup-ruby@v1
-      - run: ruby rss_fetch.rb --max-age-days 1 security.feeds.opml > security.json
-      - uses: actions/upload-artifact@v7
-        with:
-          name: security.json
-          path: security.json
-          retention-days: 1
-          overwrite: true
-          archive: false
-  tech_en:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-      - uses: ruby/setup-ruby@v1
-      - run: ruby rss_fetch.rb --max-age-days 1 tech_en.feeds.opml > tech_en.json
-      - uses: actions/upload-artifact@v7
-        with:
-          name: tech_en.json
-          path: tech_en.json
-          retention-days: 1
-          overwrite: true
-          archive: false
-  tech_ja_company:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-      - uses: ruby/setup-ruby@v1
-      - run: ruby rss_fetch.rb --max-age-days 1 tech_ja_company.feeds.opml > tech_ja_company.json
-      - uses: actions/upload-artifact@v7
-        with:
-          name: tech_ja_company.json
-          path: tech_ja_company.json
-          retention-days: 1
-          overwrite: true
-          archive: false
-  tech_ja_personal:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-      - uses: ruby/setup-ruby@v1
-      - run: ruby rss_fetch.rb --max-age-days 1 tech_ja_personal.feeds.opml > tech_ja_personal.json
-      - uses: actions/upload-artifact@v7
-        with:
-          name: tech_ja_personal.json
-          path: tech_ja_personal.json
-          retention-days: 1
-          overwrite: true
-          archive: false
+      - run: ruby rss_fetch.rb --max-age-days 1 news.feeds.opml > _site/news.json
+      - run: ruby rss_fetch.rb --max-age-days 1 security.feeds.opml > _site/security.json
+      - run: ruby rss_fetch.rb --max-age-days 1 tech_en.feeds.opml > _site/tech_en.json
+      - run: ruby rss_fetch.rb --max-age-days 1 tech_ja_company.feeds.opml > _site/tech_ja_company.json
+      - run: ruby rss_fetch.rb --max-age-days 1 tech_ja_personal.feeds.opml > _site/tech_ja_personal.json
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+      - uses: actions/deploy-pages@v5
+        id: deployment
