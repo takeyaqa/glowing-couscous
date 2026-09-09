@@ -215,7 +215,7 @@ class RSSFetch
       title: text(title),
       link: text(link),
       published: normalize_published(published),
-      summary: text(summary).slice(0, SUMMARY_MAX_LENGTH)
+      # summary: text(summary).slice(0, SUMMARY_MAX_LENGTH)
     }
   end
 
