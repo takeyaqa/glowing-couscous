@@ -14,6 +14,7 @@
     <outline type='rss' text='虎の穴ラボ技術ブログ' title='虎の穴ラボ技術ブログ' xmlUrl='https://toranoana-lab.hatenablog.com/feed' htmlUrl='https://toranoana-lab.hatenablog.com/'/>
     <outline type='rss' text='Hatena Developer Blog' title='Hatena Developer Blog' xmlUrl='https://developer.hatenastaff.com/feed' htmlUrl='https://developer.hatenastaff.com/'/>
     <outline type='rss' text='KAYAC Engineers&apos; Blog' title='KAYAC Engineers&apos; Blog' xmlUrl='https://techblog.kayac.com/feed' htmlUrl='https://techblog.kayac.com/'/>
+    <outline type='rss' text='メルカリエンジニアリングブログ' title='メルカリエンジニアリングブログ' xmlUrl='https://engineering.mercari.com/blog/feed.xml' htmlUrl='https://engineering.mercari.com/'/>
     <outline type='rss' text='IVRy（アイブリー）公式' title='IVRy（アイブリー）公式' xmlUrl='https://note.com/ivry/rss' htmlUrl='https://note.com/ivry'/>
     <outline type='rss' text='Knowledge Work Developers Blog' title='Knowledge Work Developers Blog' xmlUrl='https://note.com/knowledgework/rss' htmlUrl='https://note.com/knowledgework'/>
     <outline type='rss' text='AIテスト自動化プラットフォーム「MagicPod」公式note' title='AIテスト自動化プラットフォーム「MagicPod」公式note' xmlUrl='https://note.com/magicpod/rss' htmlUrl='https://note.com/magicpod'/>
